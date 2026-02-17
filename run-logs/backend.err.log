@@ -1,0 +1,12 @@
+DistilBERT symptom extractor unavailable: No module named 'torch'
+INFO:     Started server process [18948]
+INFO:     Waiting for application startup.
+2026-02-12 16:27:33,162 INFO [app.main] Application started.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-02-12 16:29:50,685 WARNING [passlib.handlers.bcrypt] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\Devansh\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'

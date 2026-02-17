@@ -1,0 +1,9 @@
+.env
+**/.env
+**/__pycache__/
+**/*.pyc
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+backend/test_proactivecare.db
+backend/ml/artifacts/
