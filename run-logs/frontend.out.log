@@ -3,20 +3,7 @@
 > vite --host 0.0.0.0 --port 5173
 
 
-  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m1002[22m[2m[0m ms[22m
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m563[22m[2m[0m ms[22m
 
   [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
-  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.106.21.9:[1m5173[22m/[39m
-[2m4:40:24 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mtailwind.config.ts[22m
-[2m4:40:50 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.tsx[22m
-[2m4:41:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
-[2m4:41:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
-[2m4:41:52 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.tsx, /src/index.css[22m
-[2m4:42:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/RegisterPage.tsx, /src/index.css[22m
-[2m4:42:30 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.tsx, /src/index.css[22m
-[2m4:42:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AddEntryPage.tsx, /src/index.css[22m
-[2m4:43:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ResultsPage.tsx, /src/index.css[22m
-[2m4:43:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/TrendChart.tsx, /src/index.css[22m
-[2m4:43:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HistoryPage.tsx, /src/index.css[22m
-[2m4:43:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProfilePage.tsx, /src/index.css[22m
-[2m4:44:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ResultsPage.tsx, /src/index.css[22m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.107.0.80:[1m5173[22m/[39m
